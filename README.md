@@ -1,2 +1,2 @@
 # faq
-You can ask me some question here.
+You can ask me some questions here.
